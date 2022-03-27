@@ -26,6 +26,7 @@ let car = {
     color : "Black",
 }
 
+
 let vehicle = {...car}
 
 console.log(car, vehicle) // { brand: 'Tata', color: 'Black' } { brand: 'Tata', color: 'Black' }
